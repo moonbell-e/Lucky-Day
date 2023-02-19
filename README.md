@@ -20,7 +20,7 @@ The goal of the game is to make a presentation of robots and not be left without
 Цель игры: провести презентацию роботов и не остаться без работы. Управление: WASD/стрелки, E - взаимодействие с предметами, диалоги, Space/Enter/клик мыши на >>> - продолжение диалога. Правильное прохождение игры: Дом Неуса - Холл офиса - Кабинет начальника - Склады - Рабочая зона - две двери в раб. зоне - Холл - Кабинет начальника Возможны небольшие баги и одна непрогруженная сцена (в серверной ничего не меняется после диалога в холле), немного не успели доработать. Планируем дорабатывать. Приятной игры!
 
 ## Как выглядит игра
-![EaW05C](https://user-images![fCFXlb](https://user-images.githubusercontent.com/71431806/219972965-242bfeef-e19a-4031-85ad-701e8b945a5a.jpg)
+![EaW05C](https://user-images.githubusercontent.com/71431806/219973020-04aa1bda-c392-4eb1-9601-db4e49b127db.jpg)
 ![fCFXlb](https://user-images.githubusercontent.com/71431806/219972988-31f0c0fe-1866-4187-b2f3-bbf6c323a68c.jpg)
 ![QXx1ZZ](https://user-images.githubusercontent.com/71431806/219972969-5d6631d0-d5c1-4404-89e1-9cc4fd9e31d4.jpg)
 ![yRd9fA](https://user-images.githubusercontent.com/71431806/219972998-f308ea09-a5dc-43a3-96e9-83a75ea4aa1b.jpg)
